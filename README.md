@@ -10,9 +10,6 @@ Bem-vindo ao repositório da Pokédex Incrível! Este projeto foi desenvolvido c
 - API REST de Pokémon: Fonte dos dados dos Pokémon.
 
 ### Funcionalidades da Pokédex
-Busca de Pokémon: Pesquise por diferentes Pokémon pelo nome ou ID.
-Detalhes do Pokémon: Veja informações detalhadas sobre cada Pokémon, incluindo tipo, habilidades e estatísticas.
-Interface Interativa: Navegação fácil e intuitiva através de uma interface web atraente.
-
-### Para ver a página
-[Link do projeto]()
+- Busca de Pokémon: Pesquise por diferentes Pokémon pelo nome ou ID.
+- Detalhes do Pokémon: Veja informações detalhadas sobre cada Pokémon, incluindo tipo, habilidades e estatísticas.
+- Interface Interativa: Navegação fácil e intuitiva através de uma interface web atraente.
