@@ -13,3 +13,6 @@ Bem-vindo ao repositório da Pokédex Incrível! Este projeto foi desenvolvido c
 - Busca de Pokémon: Pesquise por diferentes Pokémon pelo nome ou ID.
 - Detalhes do Pokémon: Veja informações detalhadas sobre cada Pokémon, incluindo tipo, habilidades e estatísticas.
 - Interface Interativa: Navegação fácil e intuitiva através de uma interface web atraente.
+
+### Veja o projeto
+[Link do projeto](https://fabiocasadossites.github.io/desafio-js-1-dio/)
