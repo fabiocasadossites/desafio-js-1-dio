@@ -16,3 +16,30 @@ Bem-vindo ao repositório da Pokédex Incrível! Este projeto foi desenvolvido c
 
 ### Veja o projeto
 [Link do projeto](https://fabiocasadossites.github.io/desafio-js-1-dio/)
+
+
+<br>
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/44373172"
+    />
+    <p>&nbsp&nbsp&nbspFabio Augusto<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/fabiocasadossites">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/fabioasa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.fabioaugusto.dev/">
+    Portfolio </a>
+&nbsp;&nbsp;</p>
+</p>
+<br/>
+<p>
+
+💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
